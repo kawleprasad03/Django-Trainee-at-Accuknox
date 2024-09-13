@@ -7,5 +7,5 @@ Q3 By default do django signals run in the same database transaction as the call
 ans :- By default, Django signals do run in the same database transaction as the caller<br>
 
 For the above question code, you can refer to the signals.py file inside signal_app.
-![Screenshot 2024-09-13 133320](https://github.com/user-attachments/assets/fe3a77c8-8daf-413c-86da-105507f534f8)
+![Screenshot 2024-09-13 133320](https://github.com/user-attachments/assets/558c1f30-d3e1-4539-98df-d23d5d8fe9d5)
 
